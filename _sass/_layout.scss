@@ -71,6 +71,10 @@ main {
 	max-width: $content-width;
 	margin: 0;
 }
+img{
+    width:100%;
+    max-width:900px;
+}
 time {
 	color: #898989;
 }
@@ -129,8 +133,4 @@ aside {
 footer {
 	text-align: center;
 	padding: 40px;
-}
-img{
-    width:100%;
-    max-width:900px;
 }
