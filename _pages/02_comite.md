@@ -1,6 +1,7 @@
 ---
-permalink: /organisation/
-title: "Organisation et participation"
+layout: page
+title: Organisation et participation
+permalink: /comite/
 ---
 
 ## Responsables de l'atelier

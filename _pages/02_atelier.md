@@ -1,8 +1,8 @@
 ---
+layout: page
 title: Description de l'atelier
 permalink: /atelier/
 ---
-
 ## Description de l'atelier et de ses objectifs
 Le domaine des Learning Analytics offre de nouvelles perspectives d'analyse des différents processus d'apprentissage. Dans cet atelier, nous nous intéressons au développement d'outils permettant l'appropriation des Learning Analytics par les utilisateurs potentiels et la capture des besoins utilisateurs.
 
@@ -11,3 +11,4 @@ L'atelier Quels tableaux de bord pour les acteurs de l'éducation ? organisé da
 ## Déroulement
 Cet atelier participatif est ouvert à tous. Les participants invités présenteront leurs retours d’expérience sur l’usage d’outils de conception participative de tableaux de bord d’apprentissage et pourront proposer des méthodes complémentaires issues de leurs disciplines. 
 Dans un second temps, un atelier participatif permettra d’étudier les différentes propositions pour permettre d’explorer comment répondre aux différents usages identifiés. 
+
