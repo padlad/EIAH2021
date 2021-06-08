@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Liste des présentations"
+abstract:"Un ensemble de participants invités donneront des présentation durant la première partie de l'atelier"
 date:   2021-06-02 10:10:00
 categories: presentations 
 ---
