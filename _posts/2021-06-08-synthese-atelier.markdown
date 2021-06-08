@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Liste des présentations"
+title:  "Synthèse de l'atelier"
 date:   2021-06-08 16:18:00
-categories: presentations 
-abstract: "Un ensemble de participants invités donneront des présentation durant la première partie de l'atelier"
+categories: synthese 
+abstract: "L’atelier 4 « Conception participative de tableaux de bord d’apprentissage » a accueilli 36 personnes.
+Après une introduction de l’atelier par Jean-Marie Gilliot, différentes présentations sur la thématique ont été réalisées. Les participants se sont séparés ensuite en deux groupes. Le premier groupe a travaillé sur une question de recherche en mode « design thinking ». Le second s’est intéressé à l’utilisation de la version numérique du kit de conception de tableaux de bord."
 ---
-**Proposition de synthèse rédigée**  **:**
-
 L&#39;atelier 4 « Conception participative de tableaux de bord d&#39;apprentissage » a accueilli 36 personnes.
 
 Après une introduction de l&#39;atelier par Jean-Marie Gilliot, différentes présentations sur la thématique ont été réalisées :
