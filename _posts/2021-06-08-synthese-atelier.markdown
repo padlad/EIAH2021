@@ -10,10 +10,11 @@ L&#39;atelier 4 « Conception participative de tableaux de bord d&#39;apprentiss
 
 Après une introduction de l&#39;atelier par Jean-Marie Gilliot, différentes présentations sur la thématique ont été réalisées :
 
-- Co-conception de tableaux de bord d&#39;apprentissage (TBA) avec les étudiants, par Katia Quelennec (Université de Lille/LIP6)
-- Retours d&#39;expérience de conception participative de tableaux de bord d&#39;apprentissage (TBA), par Olivier Aubert (Université de Nantes) et Laurent Neyssensas (Ecole de Design de Nantes Atlantique)
-- Utilisation d&#39;un kit de conception participative pour concevoir des tableaux de bord : cas du projet AT41, par Hassina El Kechai (Université de Poitiers/Techne)
-- Vers une Conception participative de tableaux de bord d&#39;apprentissage supportant la prise de décision, par Madjid Sadallah (IMT Atlantique/labSTICC)
+*	[**Co-conception de tableaux de bord d'apprentissage (TBA) avec les étudiants**](https://view.genial.ly/60b0af4e41638c0d29479acf/), par Katia Quelennec (Université de Lille/LIP6)
+*	[**Retours d'expérience de conception participative de tableaux de bord d'apprentissage (TBA)**](https://olivieraubert.net/talks/20210607-atelier_padlad_eiah/), par Olivier Aubert (Université de Nantes) et Laurent Neyssensas (Ecole de Design de Nantes Atlantique)
+*	[**Utilisation d'un kit de conception participative pour concevoir des tableaux de bord : cas du projet AT41**](https://padlad.github.io/EIAH2021/img/AtelierEIAH-HEK.pdf), par Hassina El Kechai (Université de Poitiers/Techne)
+*	[**Vers une Conception participative de tableaux de bord d’apprentissage supportant la prise de décision**](https://www.slideshare.net/madjidsadallah/vers-une-conception-participative-de-tableaux-de-bord-dapprentissage-supportant-la-prise-de-dcision-249086591), par Madjid Sadallah (IMT Atlantique/labSTICC)
+
 
 Les participants se sont séparés ensuite en deux groupes. Le premier groupe a travaillé sur une question de recherche en mode « design thinking ». Le second s&#39;est intéressé à l&#39;utilisation de la version numérique du kit de conception de tableaux de bord.
 
