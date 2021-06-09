@@ -8,7 +8,7 @@ Après une introduction de l’atelier par Jean-Marie Gilliot, différentes pré
 ---
 L&#39;atelier 4 « Conception participative de tableaux de bord d&#39;apprentissage » a accueilli 36 personnes.
 
-Après une introduction de l&#39;atelier par Jean-Marie Gilliot, différentes présentations sur la thématique ont été réalisées :
+Après [**une introduction de l&#39;atelier**](https://www.slideshare.net/jm.gilliot/introduction-atelier-conception-participative-de-tableaux-de-bord-dapprentissage-eiah2021) par Jean-Marie Gilliot, différentes présentations sur la thématique ont été réalisées :
 
 *	[**Co-conception de tableaux de bord d'apprentissage (TBA) avec les étudiants**](https://view.genial.ly/60b0af4e41638c0d29479acf/), par Katia Quelennec (Université de Lille/LIP6)
 *	[**Retours d'expérience de conception participative de tableaux de bord d'apprentissage (TBA)**](https://olivieraubert.net/talks/20210607-atelier_padlad_eiah/), par Olivier Aubert (Université de Nantes) et Laurent Neyssensas (Ecole de Design de Nantes Atlantique)
